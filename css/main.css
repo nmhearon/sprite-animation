@@ -1,0 +1,73 @@
+.icon-sprite, .icon-_MG_3754, .icon-_MG_3755, .icon-_MG_3756, .icon-_MG_3757, .icon-_MG_3758, .icon-_MG_3759, .icon-_MG_3760, .icon-_MG_3761, .icon-_MG_3762, .icon-_MG_3763, .icon-_MG_3764, .icon-_MG_3765, .icon-_MG_3766, .icon-_MG_3767 {
+  background-image: url('../img/icon-sbad37f642e.png');
+  background-repeat: no-repeat;
+}
+
+.icon-_MG_3754 {
+  background-position: 0 0;
+}
+
+.icon-_MG_3755 {
+  background-position: -452px 0;
+}
+
+.icon-_MG_3756 {
+  background-position: -905px 0;
+}
+
+.icon-_MG_3757 {
+  background-position: -1357px 0;
+}
+
+.icon-_MG_3758 {
+  background-position: -1809px 0;
+}
+
+.icon-_MG_3759 {
+  background-position: -2261px 0;
+}
+
+.icon-_MG_3760 {
+  background-position: -2713px 0;
+}
+
+.icon-_MG_3761 {
+  background-position: -3165px 0;
+}
+
+.icon-_MG_3762 {
+  background-position: -3617px 0;
+}
+
+.icon-_MG_3763 {
+  background-position: -4069px 0;
+}
+
+.icon-_MG_3764 {
+  background-position: -4521px 0;
+}
+
+.icon-_MG_3765 {
+  background-position: -4973px 0;
+}
+
+.icon-_MG_3766 {
+  background-position: -5425px 0;
+}
+
+.icon-_MG_3767 {
+  background-position: -5877px 0;
+}
+
+.icon-animation {
+  width: 452px;
+  height: 808px;
+  background: url("../img/icon-sbad37f642e.png") left center;
+  animation: play 1.5s steps(14) infinite;
+}
+
+@keyframes play {
+  100% {
+    background-position: -6328px;
+  }
+}

@@ -1,0 +1,16 @@
+$icon-layout:horizontal;
+@import "icon/*.png";
+@include all-icon-sprites;
+
+.icon-animation{
+	width: 452px;
+	height: 808px;
+	background: url("../img/icon-sbad37f642e.png") left center;
+	animation: play 1.5s steps(14) infinite;
+}
+@keyframes play{
+	100%{
+		// This number for backgroung position is the dimension of your icon by number of steps 256*2
+		background-position: -6328px;
+	}
+}
